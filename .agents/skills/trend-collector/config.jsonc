@@ -1,0 +1,122 @@
+{
+    // ---------------------------------------------------------------
+    // 興味プロファイル
+    // AIが各記事の関連度を「文脈で」判断するためのプロファイル。
+    // キーワードマッチではなく、ここに書かれた関心の"意図"を読み取って評価する。
+    // ---------------------------------------------------------------
+    "interest_profile": {
+        // ★★★/★★/★ の判定基準（ユーザーが手動編集する唯一の定義場所）
+        // AIはこの基準を読んで各記事に興味度を付与する
+        "rating_criteria": {
+            // 最優先・自分に直接関係する
+            "★★★": [
+                "AIエージェント・コーディング支援 — Claude Code・Cursor・Copilot、LLMを使った開発手法・自動化の実践",
+                "セキュリティの実害 — 脆弱性のPoCや悪用手法、実際のインシデント事例、サプライチェーン攻撃",
+                "JS/TSの重大アップデート — TypeScript・Node・Bun・Denoのメジャーリリース、フレームワーク刷新",
+                "PKM・知識管理 — Obsidian、Zettelkasten、ノート術・思考整理の実践的内容",
+                "エンジニアのキャリア観 — AI時代の働き方、職業選択、生産性に関する深い議論"
+            ],
+            // 参考情報・業界トレンドとして知っておくべき
+            "★★": [
+                "AI業界ニュース全般 — OpenAI・Google・Anthropicのリリース発表（ツールや手法でなく「ニュース」として）",
+                "ITインフラ・開発技術 — クラウド・DB・OSSの新機能など、直接使わないが影響を受ける可能性がある技術",
+                "セキュリティの概要情報 — 脆弱性の存在発表や研究論文（PoC・実害なし）",
+                "テック業界の動向 — 大規模レイオフ、企業戦略、規制・法律のニュース"
+            ],
+            // 関連性が低い・流し見で十分（上記のいずれにも当てはまらないもの）
+            "★": [
+                "上記以外のIT・テック記事（エンタメ系・ハードウェア・社会問題など）"
+            ]
+        },
+        // 記事フィードバック時にAIが自動追記する具体的な興味シグナル
+        // 形式: "YYYY-MM-DD | トピック — 注目した理由"
+        // 最大20件を目安に、古いものから淘汰する
+        // learned_signalsに近いトピックの記事は +1ランク評価（★→★★、★★→★★★）
+        "learned_signals": []
+    },
+    // ---------------------------------------------------------------
+    // 閾値
+    // ソースごとの記事を取得する際の最低閾値
+    // ---------------------------------------------------------------
+    "thresholds": {
+        // はてブの最低ブックマーク数
+        "hatena_bookmark": 15,
+        // Hacker Newsの最低ポイント数
+        "hacker_news": 100,
+        // Redditの最低ups数（サブレッドのカテゴリ別に設定可能）
+        "reddit": {
+            "default": 100,
+            "AI": 50,
+            "PKM": 10,
+            "キャリア": 10
+        }
+    },
+    "sources": {
+        "hatena_bookmark": {
+            // falseにするとこのソースからの取得をスキップします
+            "enabled": true,
+            // 取得先となる各種カテゴリ・検索URL一覧
+            "urls": [
+                "https://b.hatena.ne.jp/hotentry/it",
+                "https://b.hatena.ne.jp/hotentry/it/エンジニア",
+                "https://b.hatena.ne.jp/hotentry/it/セキュリティ技術",
+                "https://b.hatena.ne.jp/search/text?q=PKM&sort=recent&users=5",
+                "https://b.hatena.ne.jp/search/text?q=ナレッジ管理&sort=recent&users=5"
+            ]
+        },
+        "hacker_news": {
+            "enabled": true,
+            // 取得先のトップページURL
+            "url": "https://news.ycombinator.com/"
+        },
+        "reddit": {
+            "enabled": true,
+            // スクレイピングしやすい old.reddit.com を使用
+            "base_url": "https://old.reddit.com",
+            // 取得するソート順（hot, new, top等）
+            "sort": "hot",
+            // 取得対象の期間（day, week, month, year, all）
+            "time_filter": "day",
+            // 1サブレッドあたりに取得する最大記事数(Redditはサブレット多めに指定しているので、1サブレットあたりの取得は少なめに設定)
+            "limit_per_subreddit": 5,
+            // カテゴリごとのサブレッド一覧
+            "subreddits": {
+                "AI": [
+                    "r/OpenAI",
+                    "r/LocalLLaMA",
+                    "r/ClaudeCode"
+                ],
+                "コア技術": [
+                    "r/programming",
+                    "r/technology"
+                ],
+                "JS/TS": [
+                    "r/javascript",
+                    "r/typescript"
+                ],
+                "キャリア": [
+                    "r/cscareerquestions",
+                    "r/productivity"
+                ],
+                "PKM": [
+                    "r/ObsidianMD",
+                    "r/PKMS",
+                    "r/Zettelkasten"
+                ]
+            }
+        }
+    },
+    "user_agents": {
+        // スクレイピング先のBot対策やAPI制限をうまく回避するため、対象ごとに適切なUAを差し替えます
+        "reddit": "trend-collector/1.0 (trend analysis tool)",
+        // 一般ニュースサイトやHNはCloudflare等のWAFでBotを弾くため、Chrome等標準ブラウザのUAに偽装します
+        "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "hatena": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    // 結果ファイルの出力先
+    // directoryを修正することで、出力先を変更できる
+    "output": {
+        // 生データ（ログファイル）を出力するディレクトリパス
+        "log_directory": "11_ideas/logs",
+    }
+}
