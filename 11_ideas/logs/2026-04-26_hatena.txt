@@ -1,0 +1,23 @@
+IT総合|204|Gemini の Gem で 社内 GoogleDrive のチャットボットを作成 | DevelopersIO|https://dev.classmethod.jp/articles/gemini-gem-googledrive-chatbot/|★★
+IT総合|128|「Google スプレッドシート」でGeminiがデータ収集から複雑なシートの構築、編集まで自動化可能に／専門知識がなくても簡単にスプレッドシートを作成|https://forest.watch.impress.co.jp/docs/news/2104430.html|★★
+IT総合|125|米Anthropic調査「プログラマーはAIに職を奪われる、バーテンダーへ転職がおススメ」|https://www.sbbit.jp/article/cont1/185159|★★★
+IT総合|97|GitHub - microsoft/ghqr: GitHub Quick Review. Evaluate your enterprise and organizations with GitHub best practices|https://github.com/microsoft/ghqr|★★
+IT総合|96|ブロックされた時に「効いてて草」って勝ち誇っている人間は、周りからはこう見えている|https://posfie.com/@golden_haniwa/p/iGD9Gf4|★
+IT総合|96|“スティック型DAP”再び、CDプレーヤー風など、レトロデザインオーディオ多数。ヘッドフォン祭開幕|https://av.watch.impress.co.jp/docs/news/2104721.html|★
+IT総合|59|髪フェチすぎてリアル求めすぎた2023年の絵柄、今のシンプル塗りが良いとされる時代でも受け入れてもらえるんだろうか→「髪の毛のリアルさが本当にすごい」|https://posfie.com/@taimport/p/Fj4rbiB|★
+IT総合|48|GitHub - h4ckf0r0day/obscura: The headless browser for AI agents and web scraping|https://github.com/h4ckf0r0day/obscura|★★
+IT総合|47|「野菜は0円」アプリはなぜ伸びるのか　“ついつい買ってしまう仕組み”の正体|https://www.itmedia.co.jp/business/articles/2604/25/news008.html|★
+IT総合|44|スペインの全法律をMarkdownファイル化しGitリポジトリで公開するプロジェクト「legalize-es」、法改正はコミットとして管理され追跡も可能|https://gigazine.net/news/20260425-legalize-es/|★
+IT総合|44|なぜLLMは日本文化に夢中なのか？ – LLMに潜む隠れた文化的・地域的バイアス - AIDB|https://ai-data-base.com/paper/2604-21751|★★
+IT総合|43|3社そろい踏みの「Starlink Direct」　料金で仕掛けるドコモとソフトバンク、先行するKDDIは“サービス”で差別化|https://www.itmedia.co.jp/mobile/articles/2604/25/news025.html|★
+IT総合|36|同じ Issue を Claude・Codex・Gemini に同時に解かせるとどうなるか — git worktree × tmux で衝突しない並列 AI 開発 - Qiita|https://qiita.com/nogataka/items/1156e2d3a40c4dab3398|★★★
+IT総合|35|【renue】社員全員でClaude Codeを使い、自社のデモECをハッキングしてみた|https://zenn.dev/renue/articles/4687cb5e5c0031|★★★
+IT総合|34|小五が「走るー走るーおーれーたーちー！」と熱唱していたのでどこで聞いたのかと尋ねたら「学校ではみなこれを歌っている」と返ってきた|https://togetter.com/li/2689614|★
+IT総合|33|日本に迫るのは「石油危機」だけではない！ホルムズ海峡封鎖で露呈した日本の脆弱性といま直視すべき真の課題|https://wedge.ismedia.jp/articles/-/40513|★
+IT総合|33|ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン|https://zenn.dev/microsoft/articles/agent-package-manager-handson|★★
+IT総合|32|無料で自分好みのダッシュボードを作成できユーザーごとにログインもできる「Dashy」、セルフホスト可能でDockerで動作OK|https://gigazine.net/news/20260425-dashy/|★
+IT総合|31|npm install だけで機密情報が漏洩するリスク — サプライチェーンリスクのデモと対策|https://zenn.dev/hisa_tech_2973/articles/13d4d58e62cb5b|★★★
+IT総合|24|GeminiやChatGPTで画像生成できる時代に、わざわざローカルで動かす理由|https://zenn.dev/acntechjp/articles/a7c12b3114f56a|★★
+IT総合|19|「Gemini 3.1 Pro」基盤の新しい「Deep Research」「Deep Research Max」が発表／「MCP」で他サービスと連携、高品質なチャートやインフォグラフィックなどにも対応|https://forest.watch.impress.co.jp/docs/news/2104507.html|★★
+IT総合|16|OWASP ZAP の finding を Rust/Axum の handler に戻して直す - じゃあ、おうちで学べる|https://syu-m-5151.hatenablog.com/entry/2026/04/23/195535|★★
+IT総合|15|クラファンの「CAMPFIRE」個人情報漏えいの可能性を報告。プロジェクトオーナーや支援者の氏名、口座情報など22万件以上。クレジットカード情報はふくまれていないとしている|https://news.denfaminicogamer.jp/news/2604243h|★★

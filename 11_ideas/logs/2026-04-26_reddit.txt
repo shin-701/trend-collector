@@ -1,0 +1,59 @@
+AI|r/ClaudeCode|Adopting Claude speak in my regular life (Awni Hannun)|1809|27|https://www.reddit.com/r/ClaudeCode/comments/1svc4ml/adopting_claude_speak_in_my_regular_life_awni/|★★★
+AI|r/ClaudeCode|I think I'll leave this subreddit and here's why|568|204|https://www.reddit.com/r/ClaudeCode/comments/1svjivr/i_think_ill_leave_this_subreddit_and_heres_why/|★★★
+AI|r/ClaudeCode|I built a tiny device that shows your Claude Code usage in real time|51|9|https://www.reddit.com/r/ClaudeCode/comments/1svwxbr/i_built_a_tiny_device_that_shows_your_claude_code/|★★★
+AI|r/ClaudeCode|Trigger warning: your results with Claude code are a reflection of your ability as an operator|56|89|https://www.reddit.com/r/ClaudeCode/comments/1svl0l6/trigger_warning_your_results_with_claude_code_are/|★★★
+AI|r/ClaudeCode|I really, really, really hate Opus 4.7|64|98|https://www.reddit.com/r/ClaudeCode/comments/1svhznx/i_really_really_really_hate_opus_47/|★★★
+AI|r/LocalLLaMA|AMA Announcement: Nous Research, The Opensource Lab Behind Hermes Agent (Wednesday, 8AM-11AM PST)|83|9|https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/|★★
+AI|r/LocalLLaMA|r/LocalLLaMa Rule Updates|329|108|https://www.reddit.com/r/LocalLLaMA/comments/1su3ao4/rlocalllama_rule_updates/|★
+AI|r/LocalLLaMA|I can’t believe I can say “ugh I don’t feel like fixing this function, it’s too complex” and I can literally just tell my computer to fix it for me. I didn’t understand what they meant by “people will start paying for intelligence” but now I do.|60|43|https://www.reddit.com/r/LocalLLaMA/comments/1svu9xe/i_cant_believe_i_can_say_ugh_i_dont_feel_like/|★★
+AI|r/LocalLLaMA|2x RTX 6000 build during an extended bench test|121|81|https://www.reddit.com/r/LocalLLaMA/comments/1svmnra/2x_rtx_6000_build_during_an_extended_bench_test/|★
+AI|r/LocalLLaMA|"Weights are coming".Xiaomi’s MiMo V2.5 Pro has landed at 54 in the Artificial Analysis Intelligence Index.|396|65|https://www.reddit.com/r/LocalLLaMA/comments/1sv9q8f/weights_are_comingxiaomis_mimo_v25_pro_has_landed/|★★
+AI|r/LocalLLaMA|Decreased Intelligence Density in DeepSeek V4 Pro|193|81|https://www.reddit.com/r/LocalLLaMA/comments/1svbmnc/decreased_intelligence_density_in_deepseek_v4_pro/|★★
+AI|r/LocalLLaMA|Qwen3.6-27B at ~80 tps with 218k context window on 1x RTX 5090 served by vllm 0.19|300|121|https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/|★★
+PKM|r/ObsidianMD|Obsidian Community resources|177|47|https://www.reddit.com/r/ObsidianMD/comments/1ieln9w/obsidian_community_resources/|★
+PKM|r/ObsidianMD|If your first post is to promote your app, you will be banned.|1376|104|https://www.reddit.com/r/ObsidianMD/comments/1s8nt0m/if_your_first_post_is_to_promote_your_app_you/|★
+PKM|r/ObsidianMD|About to undertake massive life-long project, looking for help figuring out how to format this|18|18|https://www.reddit.com/r/ObsidianMD/comments/1svm70s/about_to_undertake_massive_lifelong_project/|★★★
+PKM|r/ObsidianMD|Folders vs MOCs|24|22|https://www.reddit.com/r/ObsidianMD/comments/1svfc7t/folders_vs_mocs/|★★★
+PKM|r/ObsidianMD|How did Obsidian change your life?|1087|263|https://www.reddit.com/r/ObsidianMD/comments/1sun7ev/how_did_obsidian_change_your_life/|★★★
+PKM|r/ObsidianMD|Obsidian to NotebookLM: Clean Integration Without Destroying Vault Structure?|19|17|https://www.reddit.com/r/ObsidianMD/comments/1svb9ow/obsidian_to_notebooklm_clean_integration_without/|★★★
+AI|r/OpenAI|Sora 2 megathread (part 3)|311|9782|https://www.reddit.com/r/OpenAI/comments/1o8kmg9/sora_2_megathread_part_3/|★
+AI|r/OpenAI|AMA on our DevDay Launches|117|538|https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/|★
+AI|r/OpenAI|OpenAI model releases over time|276|67|https://www.reddit.com/r/OpenAI/comments/1svknex/openai_model_releases_over_time/|★★
+AI|r/OpenAI|Did I just get PUNKED by AI?!?!|51|13|https://www.reddit.com/r/OpenAI/comments/1svrbr0/did_i_just_get_punked_by_ai/|★
+AI|r/OpenAI|Image 2.0 cooked here|1693|102|https://www.reddit.com/r/OpenAI/comments/1sv0mc5/image_20_cooked_here/|★★
+AI|r/OpenAI|OpenAI CEO Sam Altman apologizes for not flagging mass shooter to police|120|65|https://www.reddit.com/r/OpenAI/comments/1svcvwi/openai_ceo_sam_altman_apologizes_for_not_flagging/|★★
+PKM|r/PKMS|Self Promotion - April 2026|13|60|https://www.reddit.com/r/PKMS/comments/1s9n9oq/self_promotion_april_2026/|★
+PKM|r/PKMS|How are people actually revisiting what they've captured in Notion/Obsidian/their PKM system?|10|18|https://www.reddit.com/r/PKMS/comments/1su3we7/how_are_people_actually_revisiting_what_theyve/|★★★
+PKM|r/PKMS|I realized I don’t actually use my notes — so I changed my approach|12|10|https://www.reddit.com/r/PKMS/comments/1staic8/i_realized_i_dont_actually_use_my_notes_so_i/|★★★
+PKM|r/Zettelkasten|Bye Bye physical Zettelkasten|13|17|https://www.reddit.com/r/Zettelkasten/comments/1svb99e/bye_bye_physical_zettelkasten/|★★
+PKM|r/Zettelkasten|When does your zettelkasten start talking back?|11|54|https://www.reddit.com/r/Zettelkasten/comments/1sqvydk/when_does_your_zettelkasten_start_talking_back/|★★★
+PKM|r/Zettelkasten|Where do your notes actually go when you start writing?|13|16|https://www.reddit.com/r/Zettelkasten/comments/1sndzhk/where_do_your_notes_actually_go_when_you_start/|★★
+PKM|r/Zettelkasten|Interview with Luhmann, w. English subs|28|4|https://www.reddit.com/r/Zettelkasten/comments/1slpf48/interview_with_luhmann_w_english_subs/|★★★
+PKM|r/Zettelkasten|Európa, Európa, Európa!|18|14|https://www.reddit.com/r/Zettelkasten/comments/1sk5fne/európa_európa_európa/|★
+キャリア|r/cscareerquestions|[OFFICIAL] Salary Sharing thread for NEW GRADS :: March, 2026|94|101|https://www.reddit.com/r/cscareerquestions/comments/1rv2ha0/official_salary_sharing_thread_for_new_grads/|★
+キャリア|r/cscareerquestions|Just got laid off. Want to take a gap year. Is that advisable?|277|169|https://www.reddit.com/r/cscareerquestions/comments/1svimgz/just_got_laid_off_want_to_take_a_gap_year_is_that/|★★★
+キャリア|r/cscareerquestions|Zero references / zero friends|17|9|https://www.reddit.com/r/cscareerquestions/comments/1svuo1f/zero_references_zero_friends/|★★
+キャリア|r/cscareerquestions|PMs and Designers are pushing changes to the code. So far they're successful. Do you have that in your company?|105|63|https://www.reddit.com/r/cscareerquestions/comments/1sv6l2h/pms_and_designers_are_pushing_changes_to_the_code/|★★★
+キャリア|r/cscareerquestions|Does quitting without a two weeks notice affect future offers?|10|37|https://www.reddit.com/r/cscareerquestions/comments/1svlglp/does_quitting_without_a_two_weeks_notice_affect/|★
+キャリア|r/productivity|/r/productivity is being hit hard by AI generated slop + advertising spam. Please hit REPORT on this content!|179|58|https://www.reddit.com/r/productivity/comments/1r4r2bm/rproductivity_is_being_hit_hard_by_ai_generated/|★
+キャリア|r/productivity|NO ADVERTISING IS ALLOWED OF ANY KIND (including solicitation)! Advertising = Instant ban|244|28|https://www.reddit.com/r/productivity/comments/1simw4i/no_advertising_is_allowed_of_any_kind_including/|★
+キャリア|r/productivity|Shifting to a Morning Schedule as a 'Night Owl'?|34|26|https://www.reddit.com/r/productivity/comments/1svhv36/shifting_to_a_morning_schedule_as_a_night_owl/|★
+キャリア|r/productivity|Why is it so hard to do basic things consistently?|41|21|https://www.reddit.com/r/productivity/comments/1sv9ef7/why_is_it_so_hard_to_do_basic_things_consistently/|★
+キャリア|r/productivity|Tomorrow I will spend my day as Thomas Jefferson.|169|39|https://www.reddit.com/r/productivity/comments/1sux39u/tomorrow_i_will_spend_my_day_as_thomas_jefferson/|★
+キャリア|r/productivity|I can't bring myself to do anything|13|9|https://www.reddit.com/r/productivity/comments/1svct4r/i_cant_bring_myself_to_do_anything/|★
+キャリア|r/productivity|What finally made you stop procrastinating?|14|31|https://www.reddit.com/r/productivity/comments/1sv9g86/what_finally_made_you_stop_procrastinating/|★
+コア技術|r/programming|Announcement: Temporary LLM Content Ban|2772|318|https://www.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/|★★★
+コア技術|r/programming|State of the Subreddit (January 2027): Mods applications and rules updates|133|98|https://www.reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/|★
+コア技術|r/programming|Plain text has been around for decades and it’s here to stay.|211|47|https://www.reddit.com/r/programming/comments/1sv7di4/plain_text_has_been_around_for_decades_and_its/|★★
+コア技術|r/programming|My audio interface has ssh enabled by default|184|22|https://www.reddit.com/r/programming/comments/1sutiw3/my_audio_interface_has_ssh_enabled_by_default/|★★
+コア技術|r/technology|Disneyland guests can opt out of facial recognition at park entrances|2937|107|https://www.reddit.com/r/technology/comments/1svrpgk/disneyland_guests_can_opt_out_of_facial/|★
+コア技術|r/technology|Palantir employees are talking about company’s “descent into fascism”|25091|900|https://www.reddit.com/r/technology/comments/1sve3jw/palantir_employees_are_talking_about_companys/|★
+コア技術|r/technology|‘The Legend of Aang: The Last Airbender’: Man Arrested in Singapore for Paramount+ Leak, Could Face 7 Years in Prison|1116|73|https://www.reddit.com/r/technology/comments/1svv9ei/the_legend_of_aang_the_last_airbender_man/|★
+コア技術|r/technology|Trump fires the entire National Science Board|1204|41|https://www.reddit.com/r/technology/comments/1svtjfd/trump_fires_the_entire_national_science_board/|★
+コア技術|r/technology|EU is mandating 'readily removable' batteries for phones — but iPhones may be exempt|2278|184|https://www.reddit.com/r/technology/comments/1svnqt2/eu_is_mandating_readily_removable_batteries_for/|★
+コア技術|r/technology|“Age limits on social media are a dead end”: public authorities should focus on regulating algorithms and imposing stricter controls on data collection instead, argues researcher|14770|678|https://www.reddit.com/r/technology/comments/1sva7qv/age_limits_on_social_media_are_a_dead_end_public/|★
+コア技術|r/technology|Someone allegedly used a hairdryer to rig Polymarket weather bets|4604|202|https://www.reddit.com/r/technology/comments/1svg24x/someone_allegedly_used_a_hairdryer_to_rig/|★
+コア技術|r/technology|U.S Navy tests LOCUST laser weapon system that shoots down drones on the USS George H.W. Bush supercarrier — "system tracked, engaged, and neutralized multiple target drones," has essentially unlimited power source|1823|296|https://www.reddit.com/r/technology/comments/1svkf61/us_navy_tests_locust_laser_weapon_system_that/|★
+コア技術|r/technology|Steam Controller Price Leaked By Early Review - and It’s Expensive|774|231|https://www.reddit.com/r/technology/comments/1svo4j0/steam_controller_price_leaked_by_early_review_and/|★
+コア技術|r/technology|Wisconsin data centers to pay full energy costs under new rate, regulators say|157|9|https://www.reddit.com/r/technology/comments/1svxloo/wisconsin_data_centers_to_pay_full_energy_costs/|★
+JS/TS|r/typescript|Announcing TypeScript 7.0 Beta|251|35|https://www.reddit.com/r/typescript/comments/1srwc21/announcing_typescript_70_beta/|★★★
